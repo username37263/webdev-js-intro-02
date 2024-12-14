@@ -10,7 +10,7 @@ const submissionBtn = document.getElementById("submission-btn")
 // Declare your variables here.
 
 function updateYear() {
-    // write the logic
+    // Update this function
 
 }
 
@@ -19,12 +19,17 @@ function updateResolution() {
 
 }
 
+function updateWillMeetResolution() {
+    // Update this function
+
+}
+
 function render() {
-    // Finish writing this function
+    // Update this function
 
 }
 
 submissionBtn.addEventListener("click", function () {
-    // Finish writing this function
+    // Update this function
 
 })
